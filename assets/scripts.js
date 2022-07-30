@@ -8,12 +8,14 @@
 /* Copyright © 2022 Liam Labell. All rights reserved. */
 (function ($) {
     'use strict';
-    $(document).ready(function () {
-        // Preloader
-        $(window).on('load', function() {
-            $('body').addClass('loaded');
-        });
 
+    // Preloader
+    $(window).on('load', function() {
+        const loader = document.getElementById('loader');
+        loader.style.visibility = 'hidden';
+    });
+
+    $(document).ready(function () {
         /* Smooth Scroll */
         $('a.smooth-scroll').on("click", function (e) {
             const anchor = $(this);

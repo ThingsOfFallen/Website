@@ -201,7 +201,7 @@ fieldset {
 
 
 /* Preloader */
-#preloader {
+#loader {
     position: fixed;
     top: 0;
     left: 0;
@@ -212,11 +212,6 @@ fieldset {
     -webkit-transition: all .5s ease;
     -moz-transition: all .5s ease;
     transition: all .5s ease;
-}
-
-body.loaded #preloader{
-    opacity: 0;
-    visibility: hidden;
 }
 
 .loader {
