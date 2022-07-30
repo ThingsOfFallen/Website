@@ -1,2 +1,2 @@
 # Personal Site
-Here is my personal site active at: https://fallenspirit.me.
+Here is my personal site active at: https://fallenspirit.dev.

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b3450ec-a7c8-46d4-ae7e-8c66767c9879" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arc-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/flex-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sb-admin-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/templatemo-breezed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/flexslider-icon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/flexslider-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/flexslider-icon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/flexslider-icon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-info-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-info-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-info-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dotted-map-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fallen-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fallen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/features-icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/member-item-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/member-item-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/member-item-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/member-item-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/member-item-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/member-item-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-big-item-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-item-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-item-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-item-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-item-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-item-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-item-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/quote_sign_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/quote_sign_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/service-item-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slide-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slide-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/imgfix.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/isotope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-2.1.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/owl-carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scrollreveal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AeCVovDqFX0fTzuMeEKuo8egFw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/fallen/Desktop/Projects/Website",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "JavaScript.Libraries",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b3450ec-a7c8-46d4-ae7e-8c66767c9879" name="Changes" comment="" />
+      <created>1655360691752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655360691752</updated>
+      <workItem from="1655360696698" duration="580000" />
+      <workItem from="1655531120429" duration="31000" />
+      <workItem from="1655607816725" duration="9291000" />
+      <workItem from="1655631754516" duration="36000" />
+      <workItem from="1655632595801" duration="1032000" />
+      <workItem from="1655675890841" duration="12007000" />
+      <workItem from="1655704577693" duration="2474000" />
+      <workItem from="1655796090491" duration="4626000" />
+      <workItem from="1655871007636" duration="386000" />
+      <workItem from="1655970195039" duration="3181000" />
+      <workItem from="1656037500882" duration="495000" />
+      <workItem from="1656072409218" duration="1918000" />
+      <workItem from="1656557689518" duration="4000" />
+      <workItem from="1656557746590" duration="27000" />
+      <workItem from="1656736265303" duration="1041000" />
+      <workItem from="1659212853261" duration="751000" />
+      <workItem from="1659213733362" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
