@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7b3450ec-a7c8-46d4-ae7e-8c66767c9879" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,7 @@
     "last_opened_file_path": "/home/fallen/Desktop/Projects/Website",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "JavaScript.Libraries",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,11 +77,26 @@
       <workItem from="1659214830508" duration="351000" />
       <workItem from="1659253265379" duration="12000" />
       <workItem from="1662382688310" duration="230000" />
+      <workItem from="1663805379878" duration="6000" />
+      <workItem from="1663805486146" duration="39000" />
+      <workItem from="1663805537570" duration="34000" />
+      <workItem from="1667988174648" duration="3599000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

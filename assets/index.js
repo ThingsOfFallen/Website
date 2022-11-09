@@ -34,13 +34,6 @@
             }
         });
 
-        /* Mobile Navigation Hide or Collapse on Click */
-        $(document).on('click', '.navbar-collapse.in', function (e) {
-            if ($(e.target).is('a') && $(e.target).attr('class') !== 'dropdown-toggle') {
-                $(this).collapse('hide');
-            }
-        });
-
         /* Scroll To Top */
         $(window).scroll(function(){
             if ($(this).scrollTop() >= 500) {
@@ -57,7 +50,7 @@
 
         /* Typed.js */
         new Typed('.typing', {
-            strings: ["Fullstack Web Dev", "Backend Application Dev"],
+            strings: ['Fullstack Web Developer', 'Backend App Developer', 'Discord Bot Developer'],
             typeSpeed: 90,
             backSpeed: 70,
             loop: true
@@ -69,26 +62,6 @@
             hideDistantElements: false,
             horizontalOffset: 0,
             verticalOffset: 0,
-        });
-
-        /* Magnific Popup */
-        $('.portfolio-popup').magnificPopup({
-            type: 'image',
-            gallery: { enabled: true },
-            zoom: { enabled: true, duration: 500 },
-            image:{
-                markup: '<div class="mfp-figure portfolio-pop-up">'+
-                    '<div class="mfp-close"></div>'+
-                    '<div class="mfp-img"></div>'+
-                    '<div class="mfp-bottom-bar portfolio_title">'+
-                    '<div class="mfp-title"></div>'+
-                    '<div class="mfp-counter"></div>'+
-                    '</div>'+
-                    '</div>',
-                titleSrc:function(item){
-                    return item.el.attr('title');
-                }
-            }
         });
 
         /* Testimonial Carousel */
